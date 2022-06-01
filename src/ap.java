@@ -13,7 +13,7 @@ public class ap {
         int d=sc.nextInt();
         int n=sc.nextInt();
         System.out.println(nthterm(a,d,n));
-        //test comment 2
+        //test comment
 
     }
 }
