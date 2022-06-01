@@ -21,4 +21,4 @@ public class lcm
         }
 
 }
-
+//mai aur seekh liya
